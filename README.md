@@ -5,7 +5,7 @@ Repo ที่ผมใช้เก็บโน้ตต่าง ๆ ของ�
 ## Quick Links
 
 - [GitHub](https://github.com/orayachan/jsd9-pickled-cat-frontend)
-- [Trello](https://trello.com/b/HKLVn8eb/jsd9-final-sprint-2)
+- [Trello](https://trello.com/b/8vy3anF8/pickled-cat-trello)
 - [Figma](https://www.figma.com/design/FSE2RRtiMowdvNzNxJnk7n/Wireframes-T3?node-id=496-8047&t=LsptScXfVl9CpqLY-0)
 - [Final Project Portal](https://docs.google.com/spreadsheets/d/1DEjHBjVLjBwNbUX3IxuCOl5YU3Nu5DjRzm3SuLllbEc/edit?gid=0#gid=0)
 - [Project Rubric](https://docs.google.com/spreadsheets/d/1wXfsdkIkgYFmiVsdqA_1FTggOVtI6rrwi0_F5H6hSpE/edit?gid=1827534597#gid=1827534597)
@@ -14,5 +14,8 @@ Repo ที่ผมใช้เก็บโน้ตต่าง ๆ ของ�
 
 ## Archives
 
-- [Trello Sprint 1](https://trello.com/b/1JJVs41M/jsd9-final-sprint-1)
-- [Trello Sprint 1 Note](https://trello.com/b/M45VDiEi/jsd9-final-sprint-1-note)
+### Sprint 1
+
+- [GitHub](https://github.com/orayachan/jsd9-pickledcat-html-site)
+- [Trello](https://trello.com/b/1JJVs41M/jsd9-final-sprint-1)
+- [Trello Note](https://trello.com/b/M45VDiEi/jsd9-final-sprint-1-note)
