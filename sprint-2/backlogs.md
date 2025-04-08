@@ -12,6 +12,8 @@
   - [ ] แก้ Layout ไม่ให้ Header ที่เป็น Fixed Layout มาบัง
   - [ ] ลิงก์ไปหน้าต่าง ๆ ไม่ครบ
     - [ ] **Homepage:** Login, Register
+  - [ ] หาวิธีอัพเดตชื่อ Browser Tab ใน React เวลากดไปหน้าอื่น ๆ ที่ไม่ใช่
+        Homepage
 
 - [ ] **Homepage**
 
