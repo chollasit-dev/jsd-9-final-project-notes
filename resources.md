@@ -16,3 +16,4 @@
   หรือดูเป็นตัวอย่างก็ได้
 
 - [Awesome GitHub Actions](https://github.com/sdras/awesome-actions)
+- [Example Workflow Tutorial](https://docs.github.com/en/actions/use-cases-and-examples/creating-an-example-workflow)
